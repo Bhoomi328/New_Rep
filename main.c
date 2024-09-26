@@ -2,8 +2,8 @@
 #include <string.h>
 #include <stdlib.h>
 char  get_lastwd(char *str);
-char str[100];
-char str2[100];
+char str[10000];
+char str2[10000];
 int main()
 {
     printf("enter the line:");
